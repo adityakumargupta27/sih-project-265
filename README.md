@@ -1,8 +1,10 @@
-# AICTE Security Deposit & Fixed Deposit Receipt (FDR) Portal
+# SIH Project 265 — AICTE Security Deposit & Fixed Deposit Receipt (FDR) Portal
+
+> **Smart India Hackathon (SIH) Problem Statement 265**
 
 An **Apple-inspired portal redesign** for managing institutional security deposits and Fixed Deposit Receipts (FDRs) across AICTE-approved technical institutions. Built with **TanStack Start v1**, **React 19**, **Vite 8**, and **Tailwind CSS v4**.
 
-🔗 **GitHub Repository**: [https://github.com/adityakumargupta27/sih-project-1](https://github.com/adityakumargupta27/sih-project-1)
+🔗 **GitHub Repository**: [https://github.com/adityakumargupta27/sih-project-265](https://github.com/adityakumargupta27/sih-project-265)
 
 ---
 
@@ -113,8 +115,8 @@ An **Apple-inspired portal redesign** for managing institutional security deposi
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/adityakumargupta27/sih-project-1.git
-cd sih-project-1
+git clone https://github.com/adityakumargupta27/sih-project-265.git
+cd sih-project-265
 
 # Install dependencies
 bun install
