@@ -36,3 +36,4 @@ _archive_raw/
 
 .vercel
 
+.env*

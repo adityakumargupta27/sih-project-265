@@ -9,13 +9,13 @@ import reportsImg from "@/assets/feature-reports.png";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "AICTE FDR Portal — Security deposits, clearly managed" },
+      { title: "AICTE FDR Portal" },
       {
         name: "description",
         content:
           "An organised register of institutional security deposits and Fixed Deposit Receipts — verified, tracked to maturity, and released on time.",
       },
-      { property: "og:title", content: "AICTE FDR Portal — Security deposits, clearly managed" },
+      { property: "og:title", content: "AICTE FDR Portal" },
       {
         property: "og:description",
         content:
